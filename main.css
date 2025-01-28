@@ -175,7 +175,7 @@ border-bottom: 2px solid rgb(0, 0, 0);
 .alphabets h5{
     font-size: 1.7vw;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
     font-style: italic;
     letter-spacing: 4px;
     border-bottom: 2px solid black;
@@ -185,7 +185,7 @@ border-bottom: 2px solid rgb(0, 0, 0);
 .alphabets h6{
     font-size: 2vw;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
     font-style: italic;
     letter-spacing: 4px;
 
