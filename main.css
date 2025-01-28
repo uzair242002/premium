@@ -150,6 +150,7 @@ align-items: center;
 height: 70%;
 width: 12%;
 margin: 2vw ;
+    bottom:10%;
 border-radius: 50%;
 object-fit: cover;
 object-position: 40% 40%;
